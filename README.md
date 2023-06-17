@@ -7,3 +7,5 @@ This version is created by **Emo Tarquin.**
 Thanks to **Sprint** and **Gelatin** for providing many of the addresses and scripting functionality.
 
 Additional thanks to **somberness** for camera scripting functionality.
+
+If you have any questions about the CT, feel free to contact me on Discord _emotarquin_.
