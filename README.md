@@ -5,3 +5,5 @@ _Note: this cannot be used to cheat in online play, attempting to do so will cau
 This version is created by **Emo Tarquin.**
 
 Thanks to **Sprint** and **Gelatin** for providing many of the addresses and scripting functionality.
+
+Additional thanks to **somberness** for camera scripting functionality.
